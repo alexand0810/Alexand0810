@@ -1,16 +1,14 @@
-## Hi there 👋
+## vão se fuder 🤝
 
-<!--
-**alexand0810/Alexand0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é André alexander
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo :mailbox
+
+00001124005791sp@al.educacao.sp.gov.br
+
+![] (![image](https://github.com/user-attachments/assets/306b693b-375c-4d98-ba40-b7d5dd03bb14)
+
