@@ -1,4 +1,4 @@
-## vão se fuder 🤝
+## bem vindos ao meu perfil
 
 Meu nome é André alexander
 
